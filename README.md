@@ -1,4 +1,4 @@
-# Project-3: Time-Series-and-Forecasting-
+# Project-3: Time-Series and Forecasting-
 
 ##COVID‑19 Time Series Analysis (US)  
 --------------------------------------------------------------------------------------------------------------------------------------------
