@@ -23,4 +23,4 @@ By following this workflow, the project demonstrates how time series analysis ca
 
 ---
 
-Would you like me to also add a **“Project Structure” section** (listing folders, notebooks, and data files) so your README feels complete and helps others navigate the repo easily?
+
